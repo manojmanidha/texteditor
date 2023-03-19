@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import TextEditor from './component/TextEditor';
 
-function App() {
+function Main() {
   return (
     <div className="App">
      <TextEditor/>
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default Main;
